@@ -163,10 +163,3 @@ Para trocar um emoji:
 Sempre faça uma cópia da pasta completa do site antes de fazer alterações importantes!
 
 ---
-
-### 📞 Suporte Técnico
-
-Em caso de dúvidas ou problemas, entre em contato com o desenvolvedor do site fornecendo:
-- Descrição detalhada do problema
-- Prints da tela se necessário
-- Quais arquivos você estava editando
